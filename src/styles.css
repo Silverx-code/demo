@@ -3,4 +3,4 @@
 @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
 
 /* Photography supplied for the collection and lookbook. */
-.photo-art{background-image:linear-gradient(180deg,#0005,transparent 40%),var(--piece-image);background-position:center 16%;background-size:cover}.photo-art:before{display:none}.photo-about{background-image:linear-gradient(#0002,#0002),var(--about-image);background-size:cover;background-position:center 14%}.photo-about:before{display:none}.look-image{background:var(--look-image) center 15%/cover no-repeat}.look-image.one{background-image:var(--look-image)}
+.photo-art{background-image:linear-gradient(180deg,#0005,transparent 40%),var(--piece-image);background-position:center 16%;background-size:cover}.photo-art:before{display:none}.photo-about{background-image:linear-gradient(#0002,#0002),var(--about-image);background-size:cover;background-position:center 14%}.photo-about:before{display:none}.look-image.one,.look-image.two,.look-image.three,.look-image.four{background:var(--look-image) center 15%/cover no-repeat!important}
